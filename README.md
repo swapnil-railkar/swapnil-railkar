@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnil-railkar
 - 👀 I’m interested in Java,C,developing android applications
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me swapnilrailkar01@gmail.com
 
